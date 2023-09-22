@@ -1,0 +1,61 @@
+/*css file*/
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+  
+  @import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+h1{color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans- serif;
+font-size: 200px;}
+li {font-family: 'Darumadrop One', cursive;}
+
+.main_text{
+  color: red;
+}
+#special{color: yellow;}
+
+.grid{
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  grid-template-rows: auto;
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+.목차{
+  border-right : 1px solid gainsboro;
+  margin-right: 10px;
+}
+
+.title {
+  color: white;
+  font-size: 48px;
+  padding: 20px 40px;
+  
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.square-button {
+  background-color: black;
+  border-radius: 0;
+  outline-color: white;
+  margin: 3px;
+}
+
+.text-center {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.title {
+  margin-bottom: 3px;
+}
+
+.chat{ background-color: white;}
+
